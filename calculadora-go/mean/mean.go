@@ -8,7 +8,7 @@ func sum(array []int) int {
 	return result
 }
 
-func getMean(listNum []int) int {
+func GetMean(listNum []int) int {
 	mean := sum(listNum) / len(listNum)
 	return mean
 }
