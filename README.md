@@ -35,7 +35,7 @@ Atualizarei este repositório conforme for avançando.
 
 ## Projetos:
 
-- [ ] Calculadora de média de notas;
+- [ X ] Calculadora de média de notas;
 - [ ] Monitoramento de site;
 - [ ] Sistema de PIX;
 - [ ] 🤔 ...

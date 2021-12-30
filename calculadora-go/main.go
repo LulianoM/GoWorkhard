@@ -2,6 +2,8 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/LulianoM/go-workhard/tree/main/calculadora-go/mean"
 )
 
 func main() {
@@ -24,7 +26,8 @@ func main() {
 		fmt.Println(listaMedias)
 	}
 
-	var medias int = mean.getMean(listaMedias)
+	var medias int = mean.GetMean(listaMedias)
+	fmt.Println("Sua média foi:", medias)
 	if medias >= 7 {
 		fmt.Println("Parabéns, você foi aprovade!")
 	} else if medias < 5 {
