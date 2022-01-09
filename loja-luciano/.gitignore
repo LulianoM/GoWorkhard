@@ -1,0 +1,20 @@
+# ide
+.idea
+.DS_Store
+.vscode/settings.json
+.vscode/launch.json
+.history
+
+# test coverage
+cover.html
+cover.out
+__debug_bin
+
+# data
+data/**/*.sql
+data/**/*.tar
+!data/0-create-roles.sql
+!data/1-create-test-database.sql
+
+.env
+debug.test

@@ -36,8 +36,8 @@ Atualizarei este repositório conforme for avançando.
 ## Projetos:
 
 - [ X ] Calculadora de média de notas;
+- [ X ] Golang Web: Site de lojinha;
 - [ ] Monitoramento de site;
-- [ ] Sistema de PIX;
 - [ ] 🤔 ...
 
 ## Como usar:
