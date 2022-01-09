@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  <img alt="Imagem do Gopher com óculos aviador" title="Imagem por Renee French: Creative Commons 3.0 Attributions license" src="https://wallpaperaccess.com/full/5750684.jpg" width="500" height="130"/>
+  <img alt="Imagem do Gopher versao Luciano" title="Imagem por Renee French: Creative Commons 3.0 Attributions license" src="https://www.pngitem.com/pimgs/m/221-2212175_gopher-golang-hd-png-download.png" width="300" height="300"/>
 </h1>
 
 <h1 align="center">Praticando Golang</h1>
@@ -21,7 +21,7 @@
 - [Como usar](#como-usar)
 - [Referências](#referências)
 - [Agradecimentos](#agradecimentos)
-- [Autora](#autora)
+- [Autor](#autora)
 - [Licença](#licença)
 <!--te-->
 

@@ -8,10 +8,10 @@
 </p>
 
 <h1 align="center">
-  <img alt="Imagem do Gopher calculadora" title="Imagem por Renee French: Creative Commons 3.0 Attributions license" src="https://w7.pngwing.com/pngs/126/472/png-transparent-go-redis-computer-programming-programming-language-green-threads-金融-computer-programming-programming-language-c-thumbnail.png" width="300" height="300"/>
+  <img alt="Imagem do Gopher versao Luciano" title="Imagem por Renee French: Creative Commons 3.0 Attributions license" src="https://www.kindpng.com/picc/m/229-2299464_gopher-dropping-the-microphone-golang-gophers-hd-png.png" width="300" height="250"/>
 </h1>
 
-<h1 align="center">Calculadora de Médias com Golang</h1>
+<h1 align="center">Lojinha Web com Golang</h1>
 
 =================
 
@@ -28,17 +28,23 @@
 
 ## Objetivo e motivação:
 
-Cálculadora de médias para estudar e ampliar meus conhecimentos em Go. Projeto simples para iniciantes.
+Objetivo principal é treinar a interação do Golang como página web, interagindo com um banco de dados, nesse caso foi utilizado o postgre, uma interface HTML e com chamadas de rotas.
 
-Consiste em um calculadora que aceita n numeros e calcula sua média para saber se o aluno passou ou não na matéria.
+Para os módulos foi utilizado uma arquitetura do tipo MVC (ainda sinto saudades do Rails).
+
+A ideia é uma loja simples para criar, deletar e editar produtos de modo que o usuário consiga interagir sem muita dificuldade.
 
 ## Como usar:
 
-Basta baixar as dependências e ter o Make instalado em sua máquina. Com isso você rodar o comando abaixo com o make e ser feliz
+Você precisa ter o Postgree instalado em sua máquina, é com ele que estamos armazenando os dados. Você pode utilizar a imagem do Docker-compose para upar o conteiner e utilizar sem muitos problemas.
+
+Caso ja tenha as dependências na sua máquina basta rodar o comando abaixo:
 
 ```
 make run
 ```
+
+Não se esqueça de mudar os dados referentes ao banco de dados, como nome do banco e a senha.
 
 ## Referências:
 
