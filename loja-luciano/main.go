@@ -12,6 +12,6 @@ func main() {
 	routes.CarregaRotas()
 
 	porta := ":8000"
-	fmt.Println("Aguardando requisições na porta" + porta)
+	fmt.Println("Conecte-se  na porta" + porta)
 	log.Fatal(http.ListenAndServe(porta, nil))
 }
