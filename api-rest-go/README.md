@@ -47,6 +47,8 @@ po irmão desculpa ai roda o docker-compose e o npm que tu consegue confio em vo
 
 A minha sanidade pq terminei esse repo digitando _go run main.py_ no terminal e quase salvei esse README como .go
 
+po to cansadão desculpa ai
+
 ---
 
 ## Autor
