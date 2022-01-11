@@ -35,9 +35,11 @@ Atualizarei este repositório conforme for avançando.
 
 ## Projetos:
 
-- [ X ] Calculadora de média de notas;
-- [ X ] Golang Web: Site de lojinha;
+- [X] Calculadora de média de notas;
+- [X] Golang Web: Site de lojinha;
 - [ ] Monitoramento de site;
+- [X] API Rest com Frontend;
+- [ ] API Rest + Geração Relatório - Monitoramento Financeiro
 - [ ] 🤔 ...
 
 ## Como usar:
